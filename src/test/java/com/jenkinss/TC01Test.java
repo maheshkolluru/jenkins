@@ -8,7 +8,7 @@ public class TC01Test {
 	public void m1()
 	{
 	Reporter.log("m1 updated",true);	
-		
+	Reporter.log("m1  double updated",true);	
 	}
 
 }
