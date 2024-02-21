@@ -8,6 +8,7 @@ public class TC2Test {
 	public void m2()
 	{
 		Reporter.log("m2 updated ",true);
+		Reporter.log("m3 updated ",true);
 	}
 
 }
